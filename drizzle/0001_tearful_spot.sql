@@ -1,0 +1,1 @@
+CREATE INDEX `gestures_room_expiry` ON `collaboration_gestures` (`room`,`expires`);
